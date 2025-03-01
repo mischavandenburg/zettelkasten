@@ -7,7 +7,7 @@ tags:
 This plugin parses the frontmatter of the page using the [gray-matter](https://github.com/jonschlinkert/gray-matter) library. See [[authoring content#Syntax]], [[Obsidian compatibility]] and [[OxHugo compatibility]] for more information.
 
 > [!note]
-> For information on how to add, remove or configure plugins, see the [[Configuration#Plugins|Configuration]] page.
+> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
 This plugin accepts the following configuration options:
 
@@ -16,6 +16,54 @@ This plugin accepts the following configuration options:
 
 > [!warning]
 > This plugin must not be removed, otherwise Quartz will break.
+
+## List
+
+Quartz supports the following frontmatter:
+
+- title
+  - `title`
+- description
+  - `description`
+- permalink
+  - `permalink`
+- comments
+  - `comments`
+- lang
+  - `lang`
+- publish
+  - `publish`
+- draft
+  - `draft`
+- enableToc
+  - `enableToc`
+- tags
+  - `tags`
+  - `tag`
+- aliases
+  - `aliases`
+  - `alias`
+- cssclasses
+  - `cssclasses`
+  - `cssclass`
+- socialDescription
+  - `socialDescription`
+- socialImage
+  - `socialImage`
+  - `image`
+  - `cover`
+- created
+  - `created`
+  - `date`
+- modified
+  - `modified`
+  - `lastmod`
+  - `updated`
+  - `last-modified`
+- published
+  - `published`
+  - `publishDate`
+  - `date`
 
 ## API
 
