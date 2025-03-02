@@ -1,1 +1,0 @@
-# Use lots of images for slides
