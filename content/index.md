@@ -15,3 +15,4 @@ If you wish to get in touch with me, take a look at https://mischavandenburg.com
 
 # Topics - Entry points for Exploration
 
+[[42.11 Buddhist Practice]]
