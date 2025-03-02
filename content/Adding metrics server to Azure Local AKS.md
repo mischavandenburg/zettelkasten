@@ -1,6 +1,6 @@
 ---
 publish: true
-republish: true
+reshare: false
 ---
 # Adding metrics server to Azure Local in AKS
 
