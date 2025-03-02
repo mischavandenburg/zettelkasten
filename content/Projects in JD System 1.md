@@ -1,5 +1,6 @@
 ---
 publish: true
+reshare: false
 ---
 # Projects in Johnny Decimal System
 
@@ -21,4 +22,4 @@ That's all.
 
 For the first time I think I have finally found a use for tags in my notetaking system. If I need to pull out all projects for some reason, I will use tags.
 
-
+[[Storing Repos in Johnny Decimal system]]
