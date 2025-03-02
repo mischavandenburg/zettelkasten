@@ -1,6 +1,8 @@
 ---
 title: Home
 publish: true
+tags:
+- index
 ---
 
 Welcome. I've been keeping a Zettelkasten for about 3 years now, and I've accumulated nearly 2500 notes. And I enjoy reading other people's Zettelkasten too, such as rwxrob's. It shows me what they're currently obsessed with or working on, and I like to follow their journeys in that way.
@@ -13,4 +15,3 @@ If you wish to get in touch with me, take a look at https://mischavandenburg.com
 
 # Topics - Entry points for Exploration
 
-Index notes will be listed here.
